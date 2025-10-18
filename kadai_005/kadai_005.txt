@@ -10,14 +10,3 @@ git status
 git add hello_world.txt
 git commit -m "日本語訳を追記"
 git log
-commit 4d5bb8d724d5997d197b1f0cf0d142580783ae52 (HEAD -> main)
-Author: hareisakata-ctrl <harei.sakata@appirits.com>
-Date:   Sun Oct 19 02:52:04 2025 +0900
-
-    日本語訳を追記
-
-commit 8fc50dc00a319a1fb26026ee2062976b198f3b99
-Author: hareisakata-ctrl <harei.sakata@appirits.com>
-Date:   Sun Oct 19 02:33:47 2025 +0900
-
-    hello_world.txtを追加
